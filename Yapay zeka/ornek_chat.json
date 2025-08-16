@@ -1,0 +1,28 @@
+{
+  "conversation_id": "dugum_buketi_001",
+  "date": "2024-12-15T14:30:00",
+  "total_messages": 3,
+  "messages": [
+    {
+      "id": 1,
+      "timestamp": "2024-12-15T10:30:00",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Merhaba, düğün mekanı arıyorum. Bahçeli bir yer var mı?"
+    },
+    {
+      "id": 2,
+      "timestamp": "2024-12-15T10:32:00", 
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Merhaba! Tabii ki. Hangi bölgede düğün mekanı arıyorsunuz?"
+    },
+    {
+      "id": 3,
+      "timestamp": "2024-12-15T10:35:00",
+      "sender": "müşteri_1", 
+      "user_type": "customer",
+      "message": "İstanbul Avrupa yakasında olsun. Fiyatları nasıl?"
+    }
+  ]
+}

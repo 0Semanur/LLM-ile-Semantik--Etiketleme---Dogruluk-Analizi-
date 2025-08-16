@@ -1,0 +1,28 @@
+{
+  "analysis_date": "2025-08-07T21:55:46.799740",
+  "provider_used": "groq",
+  "model_used": "llama3-8b-8192",
+  "total_messages": 45,
+  "api_calls": 135,
+  "total_tokens": 43274,
+  "categories_used": [
+    "Düğün Mekanı",
+    "Düğün Organizasyonu",
+    "Gelinlik",
+    "Fotoğrafçı",
+    "Video Çekimi",
+    "Müzik/DJ",
+    "Çiçek/Dekorasyon",
+    "Davetiye",
+    "Pasta/Catering",
+    "Nikah Şekeri",
+    "Takı/Aksesuar",
+    "Düğün Arabası",
+    "Düğün Dansı",
+    "Genel Bilgi",
+    "Fiyat Sorgusu",
+    "Rezervasyon",
+    "Şikayet",
+    "Diğer"
+  ]
+}

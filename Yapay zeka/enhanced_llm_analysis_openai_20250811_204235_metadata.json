@@ -1,0 +1,25 @@
+{
+  "analysis_timestamp": "2025-08-11T20:42:35.369967",
+  "provider": "openai",
+  "model": "gpt-4o",
+  "total_messages": 45,
+  "api_calls": 0,
+  "total_tokens": 0,
+  "sentiment_distribution": {
+    "Nötr": 37,
+    "Pozitif": 7,
+    "Negatif": 1
+  },
+  "topic_distribution": {
+    "Genel Bilgi": 27,
+    "Düğün Mekanı": 5,
+    "Fiyat Sorgusu": 4,
+    "Rezervasyon": 4,
+    "Fotoğrafçı": 3,
+    "Gelinlik": 2
+  },
+  "bot_response_distribution": {
+    "Evet": 41,
+    "Hayır": 4
+  }
+}

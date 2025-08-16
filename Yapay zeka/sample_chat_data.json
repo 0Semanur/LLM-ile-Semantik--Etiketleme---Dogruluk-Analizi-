@@ -1,0 +1,356 @@
+{
+  "conversation_id": "dugum_buketi_001",
+  "date": "2025-08-14T18:10:40.884678",
+  "messages": [
+    {
+      "id": 1,
+      "timestamp": "2025-08-07T18:10:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Özür dileriz, sorununuzu çözmek için elimizden geleni yapacağız"
+    },
+    {
+      "id": 2,
+      "timestamp": "2025-08-07T18:20:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Merhaba, düğün mekanı arıyorum. Bahçeli bir yer var mı?"
+    },
+    {
+      "id": 3,
+      "timestamp": "2025-08-07T18:30:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Maalesef o tarih dolu, başka tarih önerebilirim"
+    },
+    {
+      "id": 4,
+      "timestamp": "2025-08-07T18:40:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Tabii ki! Size uygun seçenekleri gösterebilirim"
+    },
+    {
+      "id": 5,
+      "timestamp": "2025-08-07T18:50:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Fotoğraflar harika olmuş, çok memnun kaldık"
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-08-07T19:00:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Prenses model gelinlik var mı? Fiyatı ne kadar?"
+    },
+    {
+      "id": 7,
+      "timestamp": "2025-08-07T19:10:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Personel çok ilgili ve profesyonel"
+    },
+    {
+      "id": 8,
+      "timestamp": "2025-08-07T19:20:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Gelinlik modelleri görebilir miyim?"
+    },
+    {
+      "id": 9,
+      "timestamp": "2025-08-07T19:30:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Aradığım ürünü bulamadım, yardım edebilir misiniz?"
+    },
+    {
+      "id": 10,
+      "timestamp": "2025-08-07T19:40:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Gelinlik modelleri görebilir miyim?"
+    },
+    {
+      "id": 11,
+      "timestamp": "2025-08-07T19:50:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "İstanbul'da 200 kişilik düğün salonu önerebilir misiniz?"
+    },
+    {
+      "id": 12,
+      "timestamp": "2025-08-07T20:00:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "İstanbul'da 200 kişilik düğün salonu önerebilir misiniz?"
+    },
+    {
+      "id": 13,
+      "timestamp": "2025-08-07T20:10:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Fiyatlar çok pahalı, başka seçenek var mı?"
+    },
+    {
+      "id": 14,
+      "timestamp": "2025-08-07T20:20:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Maalesef o tarih dolu, başka tarih önerebilirim"
+    },
+    {
+      "id": 15,
+      "timestamp": "2025-08-07T20:30:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Çalışma saatleriniz nedir?"
+    },
+    {
+      "id": 16,
+      "timestamp": "2025-08-07T20:40:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Çalışma saatleriniz nedir?"
+    },
+    {
+      "id": 17,
+      "timestamp": "2025-08-07T20:50:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Elbette, detaylı bilgi için randevu alabilirsiniz"
+    },
+    {
+      "id": 18,
+      "timestamp": "2025-08-07T21:00:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Düğün mekanı fiyatları nasıl? Bütçem 50.000 TL"
+    },
+    {
+      "id": 19,
+      "timestamp": "2025-08-07T21:10:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Personel çok ilgili ve profesyonel"
+    },
+    {
+      "id": 20,
+      "timestamp": "2025-08-07T21:20:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "İstanbul'da 200 kişilik düğün salonu önerebilir misiniz?"
+    },
+    {
+      "id": 21,
+      "timestamp": "2025-08-07T21:30:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Elbette, detaylı bilgi için randevu alabilirsiniz"
+    },
+    {
+      "id": 22,
+      "timestamp": "2025-08-07T21:40:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Fotoğraf paketleriniz neler? Fiyat listesi var mı?"
+    },
+    {
+      "id": 23,
+      "timestamp": "2025-08-07T21:50:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Online ödeme yapabilir miyim?"
+    },
+    {
+      "id": 24,
+      "timestamp": "2025-08-07T22:00:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Randevuma geç kaldınız, memnun değilim"
+    },
+    {
+      "id": 25,
+      "timestamp": "2025-08-07T22:10:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Merhaba, düğün mekanı arıyorum. Bahçeli bir yer var mı?"
+    },
+    {
+      "id": 26,
+      "timestamp": "2025-08-07T22:20:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Fotoğraf paketleriniz neler? Fiyat listesi var mı?"
+    },
+    {
+      "id": 27,
+      "timestamp": "2025-08-07T22:30:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Teşekkür ederiz! Memnuniyetiniz bizim için önemli"
+    },
+    {
+      "id": 28,
+      "timestamp": "2025-08-07T22:40:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Özür dileriz, sorununuzu çözmek için elimizden geleni yapacağız"
+    },
+    {
+      "id": 29,
+      "timestamp": "2025-08-07T22:50:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Düğün albümü kaç günde hazır oluyor?"
+    },
+    {
+      "id": 30,
+      "timestamp": "2025-08-07T23:00:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Randevuma geç kaldınız, memnun değilim"
+    },
+    {
+      "id": 31,
+      "timestamp": "2025-08-07T23:10:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Maalesef o tarih dolu, başka tarih önerebilirim"
+    },
+    {
+      "id": 32,
+      "timestamp": "2025-08-07T23:20:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Prenses model gelinlik var mı? Fiyatı ne kadar?"
+    },
+    {
+      "id": 33,
+      "timestamp": "2025-08-07T23:30:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Online ödeme yapabilir miyim?"
+    },
+    {
+      "id": 34,
+      "timestamp": "2025-08-07T23:40:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Maalesef o tarih dolu, başka tarih önerebilirim"
+    },
+    {
+      "id": 35,
+      "timestamp": "2025-08-07T23:50:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Gelinlik modelleri görebilir miyim?"
+    },
+    {
+      "id": 36,
+      "timestamp": "2025-08-08T00:00:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "İstanbul'da 200 kişilik düğün salonu önerebilir misiniz?"
+    },
+    {
+      "id": 37,
+      "timestamp": "2025-08-08T00:10:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Düğün fotoğrafçısı rezervasyonu nasıl yapabilirim?"
+    },
+    {
+      "id": 38,
+      "timestamp": "2025-08-08T00:20:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Düğün mekanı fiyatları nasıl? Bütçem 50.000 TL"
+    },
+    {
+      "id": 39,
+      "timestamp": "2025-08-08T00:30:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Hangi şehirlerde hizmet veriyorsunuz?"
+    },
+    {
+      "id": 40,
+      "timestamp": "2025-08-08T00:40:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Düğün fotoğrafçısı rezervasyonu nasıl yapabilirim?"
+    },
+    {
+      "id": 41,
+      "timestamp": "2025-08-08T00:50:40.884678",
+      "sender": "müşteri_3",
+      "user_type": "customer",
+      "message": "Gelinlik modelleri görebilir miyim?"
+    },
+    {
+      "id": 42,
+      "timestamp": "2025-08-08T01:00:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Tabii ki! Size uygun seçenekleri gösterebilirim"
+    },
+    {
+      "id": 43,
+      "timestamp": "2025-08-08T01:10:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Elbette, detaylı bilgi için randevu alabilirsiniz"
+    },
+    {
+      "id": 44,
+      "timestamp": "2025-08-08T01:20:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Randevuma geç kaldınız, memnun değilim"
+    },
+    {
+      "id": 45,
+      "timestamp": "2025-08-08T01:30:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Düğün mekanı fiyatları nasıl? Bütçem 50.000 TL"
+    },
+    {
+      "id": 46,
+      "timestamp": "2025-08-08T01:40:40.884678",
+      "sender": "müşteri_2",
+      "user_type": "customer",
+      "message": "Çalışma saatleriniz nedir?"
+    },
+    {
+      "id": 47,
+      "timestamp": "2025-08-08T01:50:40.884678",
+      "sender": "destek_2",
+      "user_type": "support",
+      "message": "Fotoğraf paketleriniz neler? Fiyat listesi var mı?"
+    },
+    {
+      "id": 48,
+      "timestamp": "2025-08-08T02:00:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Düğün mekanı fiyatları nasıl? Bütçem 50.000 TL"
+    },
+    {
+      "id": 49,
+      "timestamp": "2025-08-08T02:10:40.884678",
+      "sender": "destek_1",
+      "user_type": "support",
+      "message": "Çalışma saatleriniz nedir?"
+    },
+    {
+      "id": 50,
+      "timestamp": "2025-08-08T02:20:40.884678",
+      "sender": "müşteri_1",
+      "user_type": "customer",
+      "message": "Online ödeme yapabilir miyim?"
+    }
+  ]
+}

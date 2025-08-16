@@ -1,0 +1,46 @@
+﻿message_id,timestamp,sender,user_type,message,llm_sentiment,llm_topic,llm_bot_response,analysis_timestamp,provider_used,model_used,manual_sentiment,manual_topic,manual_bot_response,labeled_at,comment
+1,2024-12-15T09:00:00,müşteri_1,customer,"Merhaba, düğün mekanı arıyorum. Bahçeli bir yer var mı?",Nötr,Düğün Mekanı,Evet,2025-08-11T20:21:33.943185,openai,gpt-4o,Nötr,Düğün Mekanı,Evet,2025-08-11T20:46:13.936247,
+2,2024-12-15T09:02:00,destek_1,support,Merhaba! Tabii ki. Hangi bölgede düğün mekanı arıyorsunuz?,Nötr,Düğün Mekanı,Evet,2025-08-11T20:22:02.554046,openai,gpt-4o,Nötr,Düğün Mekanı,Evet,2025-08-11T20:46:33.508123,
+3,2024-12-15T09:05:00,müşteri_1,customer,İstanbul Avrupa yakasında olsun. Fiyatları nasıl?,Nötr,Fiyat Sorgusu,Evet,2025-08-11T20:22:32.675837,openai,gpt-4o,Nötr,Fiyat Sorgusu,Evet,2025-08-11T20:46:48.833514,
+4,2024-12-15T09:07:00,destek_1,support,Avrupa yakasında birçok güzel mekanımız var. Kişi başı 150-300 TL arası değişiyor. Kaç kişilik düşünüyorsunuz?,Pozitif,Düğün Mekanı,Hayır,2025-08-11T20:23:00.989310,openai,gpt-4o,Pozitif,Düğün Mekanı,Hayır,2025-08-11T20:48:11.569523,
+5,2024-12-15T09:10:00,müşteri_1,customer,"200 kişilik düşünüyoruz. Çok güzel, teşekkür ederim!",Pozitif,Genel Bilgi,Evet,2025-08-11T20:23:31.595385,openai,gpt-4o,Pozitif,Genel Bilgi,Evet,2025-08-11T20:48:25.131544,
+6,2024-12-15T09:30:00,müşteri_2,customer,Gelinlik modelleri görebilir miyim? Prenses model arıyorum.,Nötr,Gelinlik,Evet,2025-08-11T20:24:00.614417,openai,gpt-4o,Nötr,Gelinlik,Evet,2025-08-11T20:48:35.633120,
+7,2024-12-15T09:32:00,destek_2,support,Tabii ki! Prenses model gelinliklerimiz çok güzel. Mağazamıza gelip deneyebilirsiniz.,Pozitif,Gelinlik,Evet,2025-08-11T20:24:28.845228,openai,gpt-4o,Pozitif,Gelinlik,Evet,2025-08-11T20:48:45.097137,
+8,2024-12-15T09:35:00,müşteri_2,customer,Fiyatları ne kadar? Bütçem sınırlı.,Nötr,Fiyat Sorgusu,Evet,2025-08-11T20:24:56.742617,openai,gpt-4o,Nötr,Fiyat Sorgusu,Evet,2025-08-11T20:48:50.997878,
+9,2024-12-15T09:37:00,destek_2,support,Prenses modeller 2000-8000 TL arası. Bütçenize uygun seçenekler bulabiliriz.,Nötr,Genel Bilgi,Evet,2025-08-11T20:25:25.016346,openai,gpt-4o,Nötr,Genel Bilgi,Evet,2025-08-11T20:48:58.922811,
+10,2024-12-15T10:00:00,müşteri_3,customer,Düğün fotoğrafçısı arıyorum. Paketleriniz neler?,Nötr,Fotoğrafçı,Evet,2025-08-11T20:25:54.264568,openai,gpt-4o,Nötr,Fotoğrafçı,Evet,2025-08-11T20:49:12.995850,
+11,2024-12-15T10:02:00,destek_1,support,"Fotoğraf paketlerimiz: Temel (1500 TL), Standart (2500 TL), Premium (4000 TL). Hangi paketi tercih edersiniz?",Nötr,Fotoğrafçı,Evet,2025-08-11T20:26:23.373984,openai,gpt-4o,Nötr,Fotoğrafçı,Evet,2025-08-11T20:49:20.314897,
+12,2024-12-15T10:05:00,müşteri_3,customer,Premium pakette neler var?,Nötr,Genel Bilgi,Evet,2025-08-11T20:26:52.593997,openai,gpt-4o,Nötr,Genel Bilgi,Evet,2025-08-11T20:49:28.359044,
+13,2024-12-15T10:07:00,destek_1,support,"Premium pakette: 8 saat çekim, 2 fotoğrafçı, 500+ fotoğraf, albüm, video klip dahil.",Nötr,Fotoğrafçı,Hayır,2025-08-11T20:27:21.847281,openai,gpt-4o,Nötr,Fotoğrafçı,Hayır,2025-08-11T20:49:49.193772,
+14,2024-12-15T10:10:00,müşteri_3,customer,Harika! Rezervasyon nasıl yapabilirim?,Pozitif,Rezervasyon,Evet,2025-08-11T20:27:50.112859,openai,gpt-4o,Pozitif,Rezervasyon,Evet,2025-08-11T20:49:52.076597,
+15,2024-12-15T10:30:00,müşteri_4,customer,Çiçek dekorasyonu için randevu almak istiyorum.,Nötr,Rezervasyon,Evet,2025-08-11T20:28:18.190286,openai,gpt-4o,Nötr,Rezervasyon,Evet,2025-08-11T20:49:55.327002,
+16,2024-12-15T10:32:00,destek_3,support,Çiçek dekorasyonu için hangi tarih uygun? Mekan büyüklüğü nasıl?,Nötr,Düğün Mekanı,Evet,2025-08-11T20:28:46.621483,openai,gpt-4o,nan,nan,nan,nan,n
+17,2024-12-15T10:35:00,müşteri_4,customer,"15 Haziran 2025, 300 kişilik salon. Beyaz ve pembe tonları istiyorum.",Nötr,Düğün Mekanı,Evet,2025-08-11T20:29:15.820671,openai,gpt-4o,nan,nan,nan,nan,n
+18,2024-12-15T10:37:00,destek_3,support,Çok güzel bir seçim! Beyaz gül ve pembe şakayık kombinasyonu harika olur. Fiyat teklifi hazırlayalım.,Pozitif,Fiyat Sorgusu,Evet,2025-08-11T20:29:45.568779,openai,gpt-4o,nan,nan,nan,nan,n
+19,2024-12-15T11:00:00,müşteri_5,customer,Düğün pastası siparişi vermek istiyorum.,Nötr,Genel Bilgi,Evet,2025-08-11T20:30:13.627842,openai,gpt-4o,nan,nan,nan,nan,n
+20,2024-12-15T11:02:00,destek_2,support,Kaç kişilik pasta istiyorsunuz? Hangi lezzeti tercih edersiniz?,Nötr,Genel Bilgi,Evet,2025-08-11T20:30:41.805556,openai,gpt-4o,nan,nan,nan,nan,n
+21,2024-12-15T11:05:00,müşteri_5,customer,"200 kişilik, çikolatalı olsun. Fiyatı ne kadar?",Nötr,Fiyat Sorgusu,Evet,2025-08-11T20:31:10.440125,openai,gpt-4o,nan,nan,nan,nan,n
+22,2024-12-15T11:07:00,destek_2,support,200 kişilik çikolatalı pasta 800 TL. Özel tasarım istiyorsanız +200 TL.,Nötr,Genel Bilgi,Evet,2025-08-11T20:31:41.041308,openai,gpt-4o,nan,nan,nan,nan,n
+23,2024-12-15T11:30:00,müşteri_6,customer,DJ hizmeti alabilir miyim? Müzik listesi nasıl oluyor?,Nötr,Genel Bilgi,Evet,2025-08-11T20:32:09.530832,openai,gpt-4o,nan,nan,nan,nan,n
+24,2024-12-15T11:32:00,destek_1,support,DJ hizmetimiz var. Müzik listesini önceden görüşüp hazırlıyoruz. 6 saat 1200 TL.,Nötr,Rezervasyon,Evet,2025-08-11T20:32:37.399328,openai,gpt-4o,nan,nan,nan,nan,n
+25,2024-12-15T11:35:00,müşteri_6,customer,Ses sistemi de dahil mi?,Nötr,Genel Bilgi,Evet,2025-08-11T20:33:04.980365,openai,gpt-4o,nan,nan,nan,nan,n
+26,2024-12-15T11:37:00,destek_1,support,"Evet, profesyonel ses sistemi ve ışık sistemi dahil.",Nötr,Genel Bilgi,Evet,2025-08-11T20:33:32.933365,openai,gpt-4o,nan,nan,nan,nan,n
+27,2024-12-15T12:00:00,müşteri_7,customer,Davetiye tasarımı yaptırabilir miyim?,Nötr,Genel Bilgi,Evet,2025-08-11T20:34:02.897888,openai,gpt-4o,nan,nan,nan,nan,n
+28,2024-12-15T12:02:00,destek_3,support,Tabii ki! Özel tasarım davetiyelerimiz var. Hangi tarzda istiyorsunuz?,Nötr,Genel Bilgi,Evet,2025-08-11T20:34:32.276110,openai,gpt-4o,nan,nan,nan,nan,n
+29,2024-12-15T12:05:00,müşteri_7,customer,"Vintage tarzda, kraft kağıt üzerine olsun.",Nötr,Genel Bilgi,Evet,2025-08-11T20:34:59.996059,openai,gpt-4o,nan,nan,nan,nan,n
+30,2024-12-15T12:07:00,destek_3,support,"Vintage kraft davetiyeler çok şık oluyor. 100 adet 300 TL, tasarım dahil.",Nötr,Genel Bilgi,Evet,2025-08-11T20:35:29.567920,openai,gpt-4o,nan,nan,nan,nan,n
+31,2024-12-15T12:30:00,müşteri_8,customer,Nikah şekeri siparişi vermek istiyorum.,Nötr,Genel Bilgi,Evet,2025-08-11T20:35:58.886485,openai,gpt-4o,nan,nan,nan,nan,n
+32,2024-12-15T12:32:00,destek_2,support,"Nikah şekerimiz çok lezzetli! Hangi çeşidi tercih edersiniz? Lokum, çikolata, badem şekeri?",Nötr,Genel Bilgi,Evet,2025-08-11T20:36:27.499580,openai,gpt-4o,nan,nan,nan,nan,n
+33,2024-12-15T12:35:00,müşteri_8,customer,Karışık olsun. 200 kutu istiyorum.,Nötr,Genel Bilgi,Evet,2025-08-11T20:36:56.344167,openai,gpt-4o,nan,nan,nan,nan,n
+34,2024-12-15T12:37:00,destek_2,support,200 kutu karışık nikah şekeri 600 TL. Özel ambalaj +100 TL.,Nötr,Genel Bilgi,Evet,2025-08-11T20:37:24.861439,openai,gpt-4o,nan,nan,nan,nan,n
+35,2024-12-15T13:00:00,müşteri_9,customer,Düğün arabası kiralayabilir miyim?,Nötr,Genel Bilgi,Evet,2025-08-11T20:37:52.556399,openai,gpt-4o,nan,nan,nan,nan,n
+36,2024-12-15T13:02:00,destek_1,support,Düğün arabası kiralama hizmetimiz var. Hangi model araba istiyorsunuz?,Nötr,Genel Bilgi,Evet,2025-08-11T20:38:20.384631,openai,gpt-4o,nan,nan,nan,nan,n
+37,2024-12-15T13:05:00,müşteri_9,customer,Beyaz BMW veya Mercedes olsun.,Nötr,Genel Bilgi,Evet,2025-08-11T20:38:47.738370,openai,gpt-4o,nan,nan,nan,nan,n
+38,2024-12-15T13:07:00,destek_1,support,"BMW 3.20i günlük 400 TL, Mercedes E-Class 500 TL. Süsleme dahil.",Nötr,Genel Bilgi,Evet,2025-08-11T20:39:15.576572,openai,gpt-4o,nan,nan,nan,nan,n
+39,2024-12-15T13:30:00,müşteri_10,customer,Geç kaldınız randevuya! Çok memnun değilim.,Negatif,Rezervasyon,Evet,2025-08-11T20:39:43.947512,openai,gpt-4o,nan,nan,nan,nan,n
+40,2024-12-15T13:32:00,destek_3,support,"Çok özür dileriz! Trafikte kaldık. Hemen geliyoruz, lütfen bekleyin.",Nötr,Genel Bilgi,Evet,2025-08-11T20:40:12.293177,openai,gpt-4o,nan,nan,nan,nan,n
+41,2024-12-15T13:35:00,müşteri_10,customer,Bu kadar gecikmek olmaz! Profesyonel değil.,Nötr,Genel Bilgi,Evet,2025-08-11T20:40:41.461161,openai,gpt-4o,nan,nan,nan,nan,n
+42,2024-12-15T13:37:00,destek_3,support,"Haklısınız, özür dileriz. Bu durumu telafi etmek için %10 indirim uygulayacağız.",Nötr,Genel Bilgi,Evet,2025-08-11T20:41:09.161298,openai,gpt-4o,nan,nan,nan,nan,n
+43,2024-12-15T14:00:00,müşteri_11,customer,"Hizmetiniz çok güzeldi, çok teşekkür ederim!",Pozitif,Genel Bilgi,Evet,2025-08-11T20:41:37.167427,openai,gpt-4o,nan,nan,nan,nan,n
+44,2024-12-15T14:02:00,destek_1,support,Çok teşekkür ederiz! Memnuniyetiniz bizim için en önemli şey.,Pozitif,Genel Bilgi,Hayır,2025-08-11T20:42:07.586755,openai,gpt-4o,nan,nan,nan,nan,n
+45,2024-12-15T14:05:00,müşteri_11,customer,Kesinlikle tavsiye edeceğim arkadaşlarıma!,Nötr,Genel Bilgi,Hayır,2025-08-11T20:42:35.257375,openai,gpt-4o,Nötr,Genel Bilgi,Hayır,2025-08-11T20:50:23.277162,
